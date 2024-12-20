@@ -9,8 +9,8 @@ Newton's Cradle is a device that demonstrates conservation of momentum and energ
 ## Installation
 
 1. Clone the repository:
-    ```
-    git clone https://github.com/million-mesfin/NewtonsCradleProject.git](https://github.com/million-mesfin/Newton-s_cradle_project.git
+    ```bash
+    https://github.com/million-mesfin/Newton-s_cradle_project.git
     ```
 2. Open the project in Code::Blocks or your preferred IDE.
 3. Ensure you have the necessary dependencies installed (see [Dependencies](#dependencies)).
